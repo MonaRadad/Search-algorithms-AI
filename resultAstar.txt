@@ -1,0 +1,23 @@
+down 100 100
+down 100 100
+left, use food 100 150
+right 100 150
+down 100 100
+up 100 100
+down 100 50
+down 50 50
+right 50 50
+down, use money 150 50
+up 150 50
+left 100 50
+right 100 50
+left 50 50
+down 50 50
+down 50 50
+up 50 50
+right 50 50
+up 50 50
+up, use money 100 50
+down 100 50
+right 100 50
+right 100 50

@@ -1,0 +1,18 @@
+left 220 140
+down 220 140
+left 220 140
+down 120 140
+up 120 140
+down 20 140
+left 20 140
+down 20 140
+left 20 140
+down 20 140
+up 20 140
+right 20 140
+right, use food 20 240
+left 20 240
+up 20 240
+left 20 240
+up 20 40
+up 20 40
